@@ -15,7 +15,6 @@ Hyperparameter configuration
 Reward function specification
 Supporting_Evidence.zip
 Supporting materials used in the preparation and validation of the reported experiments.
-Results.zip (if included)
 Experimental outputs, summary statistics, and other evidence supporting the reported findings.
 Scope
 
